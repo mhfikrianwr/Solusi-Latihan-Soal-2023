@@ -1,9 +1,0 @@
-//Solution Were Made By Fikri TIF C 
-//Kindly follow my insta @mhfikrianwr :D 
-public class HaloDunia {
-
-    public static void main(String[] args) {
-        /* Tuliskan kode kalian di sini */
-        System.out.print("Hello World!");
-    }
-}
