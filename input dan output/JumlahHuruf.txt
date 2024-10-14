@@ -1,4 +1,5 @@
-
+//Solution Were Made By Fikri TIF C 
+//Kindly follow my insta @mhfikrianwr :D 
 import java.util.Scanner;
   
 public class JumlahHuruf {
